@@ -1,0 +1,1 @@
+class Librarian(user: User) : User by user
