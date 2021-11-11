@@ -1,0 +1,13 @@
+src
+├───main
+│   ├───Kotlin
+│   │   └───main.kt
+│   │       
+│   │               
+│   │               
+│   └───resources
+│           file.txt
+└───test
+    ├───kotlin
+    │               
+    └───resources
